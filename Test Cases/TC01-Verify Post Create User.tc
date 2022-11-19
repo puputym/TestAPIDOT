@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Verify Post Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3414f4a-cd45-49a5-b4c8-5f532edfca96</testCaseGuid>
+</TestCaseEntity>

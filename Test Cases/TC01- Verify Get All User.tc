@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01- Verify Get All User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e05f6eb-1887-49e8-951e-66dab941cb18</testCaseGuid>
+</TestCaseEntity>
